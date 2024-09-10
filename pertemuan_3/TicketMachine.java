@@ -1,5 +1,5 @@
 public class TicketMachine {
-  // instqnce fields
+  // instance fields
   private int price;
   private int balance;
   private int total;
